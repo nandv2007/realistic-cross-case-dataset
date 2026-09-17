@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-002-01
+Observation Subject: Nikhil Verma (local record P-002-REF01)
+Date/Time: 2024-10-12T18:45:00Z
+Observation Area: Primary Incident Location - Case 2
+GPS: 28.6439, 77.239
+
+Observed vehicle:
+- Registration: DL03CC0002
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-002-99021
+
+Telephony observation:
+- Handset: 9802017001
+- IMEI: IMEI-864201041122334
+- Serving tower: TOWER-002-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-002-01
+Status: Forwarded for investigative review
+================================================================================

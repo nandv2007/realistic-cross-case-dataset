@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-001-01
+Observation Subject: Suresh Kumar (local record P-001-REF01)
+Date/Time: 2024-10-11T18:45:00Z
+Observation Area: Primary Incident Location - Case 1
+GPS: 28.6289, 77.224
+
+Observed vehicle:
+- Registration: DL02CB0001
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-001-99021
+
+Telephony observation:
+- Handset: 9801017001
+- IMEI: IMEI-864201041122334
+- Serving tower: TOWER-001-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-001-01
+Status: Forwarded for investigative review
+================================================================================

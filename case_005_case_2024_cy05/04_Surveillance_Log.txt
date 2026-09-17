@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-005-01
+Observation Subject: Rohit Malhotra (local record P-005-REF01)
+Date/Time: 2024-10-15T18:45:00Z
+Observation Area: Primary Incident Location - Case 5
+GPS: 28.6889, 77.284
+
+Observed vehicle:
+- Registration: DL06CF0005
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-005-99021
+
+Telephony observation:
+- Handset: 9805017002
+- IMEI: IMEI-864201040005000
+- Serving tower: TOWER-005-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-005-01
+Status: Forwarded for investigative review
+================================================================================

@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-009-01
+Observation Subject: Prakash Naik (local record P-009-REF01)
+Date/Time: 2024-10-19T18:45:00Z
+Observation Area: Primary Incident Location - Case 9
+GPS: 28.7489, 77.344
+
+Observed vehicle:
+- Registration: DL01CJ0009
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-009-99021
+
+Telephony observation:
+- Handset: 9809017002
+- IMEI: IMEI-864201040009000
+- Serving tower: TOWER-009-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-009-01
+Status: Forwarded for investigative review
+================================================================================

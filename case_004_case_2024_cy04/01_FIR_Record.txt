@@ -1,0 +1,23 @@
+================================================================================
+FIRST INFORMATION REPORT
+================================================================================
+District / Division: Cyber Police Station Jamtara
+Police Station: Cyber Police Station Jamtara
+FIR Number: 1004/2024    Date: 2024-10-14
+Acts & Sections: IT Act 66C, IPC 420, IPC 467, IPC 471, Indian Telegraph Act 25
+Type of Information: Written Complaint / Investigation Referral
+
+Complainant / Informant: Kavita Rao
+
+Persons identified during initial inquiry:
+- Name: Sandeep Yadav
+- Local record ID: P-004-REF01
+- Contact observed/recorded: 9804017002
+
+Brief Facts:
+Fraudulent activation of 14,000+ pre-activated SIM cards using scraped voter IDs and Aadhaar silicon fingerprint clones for organized group cyber extortion rings.
+The initial record contains communications, financial records, field observations and other source material for further examination. The presence of an association or transaction is not, by itself, treated as proof of criminal involvement.
+
+Investigating Officer:
+Inspector R. K. Shekhawat, Cyber Police Station Jamtara
+================================================================================

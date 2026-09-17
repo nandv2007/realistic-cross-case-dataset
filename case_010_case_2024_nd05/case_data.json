@@ -1,0 +1,978 @@
+{
+  "case_metadata": {
+    "case_id": "CASE-2024-ND05",
+    "case_name": "Operation Rave Investigation - Synthetic Meth Party Association",
+    "case_type": "NARCOTICS",
+    "priority": "MEDIUM",
+    "status": "UNDER_INVESTIGATION",
+    "jurisdiction": "Anti-Narcotics Cell Panaji Goa",
+    "lead_investigator": "Inspector R. K. Shekhawat, Anti-Narcotics Cell Panaji Goa",
+    "created_date": "2024-10-20",
+    "summary": "High-end nightlife party drug distribution association utilizing dead-drop geo-tags on Signal messenger and cryptocurrency pre-orders.",
+    "tags": [
+      "NARCOTICS",
+      "High_Priority"
+    ]
+  },
+  "fir_records": [
+    {
+      "fir_id": "FIR-2024-1010",
+      "fir_number": "1010/2024",
+      "police_station": "Anti-Narcotics Cell Panaji Goa",
+      "date": "2024-10-20",
+      "sections": [
+        "NDPS Act 20(b)",
+        "NDPS Act 22(c)",
+        "IPC 120B"
+      ],
+      "complainant": "Ayesha Khan",
+      "summary": "FIR registered under the recorded legal provisions. Initial investigation documents the reported incident and persons identified during the first stage of inquiry.",
+      "accused_person_ids": [
+        "P-010-REF01"
+      ]
+    }
+  ],
+  "entities": {
+    "people": [
+      {
+        "person_id": "P-010-REF01",
+        "name": "Karan Singh",
+        "aliases": [
+          "Karan S."
+        ],
+        "dob": "1984-06-12",
+        "roles": [
+          "Suspect",
+          "Person of interest"
+        ]
+      },
+      {
+        "person_id": "P-010-REF02",
+        "name": "Ayesha Khan",
+        "aliases": [],
+        "dob": "1972-04-10",
+        "roles": [
+          "Victim",
+          "Complainant"
+        ]
+      },
+      {
+        "person_id": "P-010-REF03",
+        "name": "T. Sheikh",
+        "aliases": [],
+        "dob": "1980-02-14",
+        "roles": [
+          "Person of interest",
+          "Contraband Transporter"
+        ]
+      },
+      {
+        "person_id": "P-010-REF04",
+        "name": "H. Patel",
+        "aliases": [],
+        "dob": "1968-11-04",
+        "roles": [
+          "Person of interest"
+        ]
+      }
+    ],
+    "phones": [
+      {
+        "phone_number": "9820456712",
+        "phone_id": "PH-010-01",
+        "imei": "352019481190224",
+        "carrier": "Vodafone Idea",
+        "registered_owner": "H. Patel",
+        "owner_person_id": "P-010-REF04"
+      },
+      {
+        "phone_number": "9810027004",
+        "phone_id": "PH-010-02",
+        "imei": "864201040010000",
+        "carrier": "Jio Infocomm",
+        "registered_owner": "Karan Singh",
+        "owner_person_id": "P-010-REF01"
+      },
+      {
+        "phone_number": "9810037006",
+        "phone_id": "PH-010-03",
+        "imei": "352901040020000",
+        "carrier": "Airtel Bharti",
+        "registered_owner": "Ayesha Khan",
+        "owner_person_id": "P-010-REF02"
+      }
+    ],
+    "bank_accounts": [
+      {
+        "account_number": "410012345678",
+        "account_id": "B-010-01",
+        "bank_name": "ICICI Bank",
+        "account_type": "CURRENT",
+        "branch": "Zaveri Bazaar Branch, Mumbai",
+        "holder_name": "Mahalaxmi Trading",
+        "owner_person_id": "P-010-REF04"
+      },
+      {
+        "account_number": "110000001002",
+        "account_id": "B-010-02",
+        "bank_name": "State Bank of India",
+        "account_type": "SAVINGS",
+        "branch": "Main Town Branch",
+        "holder_name": "Karan Singh",
+        "owner_person_id": "P-010-REF01"
+      }
+    ],
+    "vehicles": [
+      {
+        "vin": "VIN-IND-010-99021",
+        "vehicle_id": "VEH-010-01",
+        "license_plate": "DL02CK0010",
+        "make": "Hyundai",
+        "model": "Creta",
+        "color": "Silver",
+        "registered_owner": "Karan Singh",
+        "owner_person_id": "P-010-REF01"
+      }
+    ],
+    "social_handles": [
+      {
+        "handle_id": "OSINT-010-01",
+        "platform": "Telegram",
+        "handle": "case_010_contact_10",
+        "associated_email": "operative_10@proton.me",
+        "display_name": "Secure Channel 10",
+        "owner_person_id": "P-010-REF01"
+      }
+    ],
+    "ip_addresses": [],
+    "cell_towers": [
+      {
+        "cell_tower_id": "TOWER-010-01",
+        "tower_code": "LAC210-CID1010",
+        "operator": "Bharti Airtel",
+        "latitude": 28.7639,
+        "longitude": 77.359,
+        "location_id": "LOC-CRIME-10"
+      }
+    ],
+    "locations": [
+      {
+        "location_id": "LOC-010-01",
+        "name": "Primary Incident Location - Case 10",
+        "address": "Sector 10, Institutional Area, Metropolitan Region",
+        "latitude": 28.7639,
+        "longitude": 77.359,
+        "location_type": "CRIME_SCENE"
+      }
+    ]
+  },
+  "relationships": {
+    "communications": [
+      {
+        "call_id": "CDR-010-0007",
+        "source_phone": "9820456712",
+        "target_phone": "+919818010451",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-11T12:12:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0001",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-11T13:34:00Z",
+        "duration_seconds": 310,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0002",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "MISSED",
+        "timestamp": "2024-10-11T15:19:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0006",
+        "source_phone": "9820456712",
+        "target_phone": "+919910010221",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-11T16:58:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0005",
+        "source_phone": "9820456712",
+        "target_phone": "+919810910711",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-11T17:00:00Z",
+        "duration_seconds": 25,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0008",
+        "source_phone": "+919811010881",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-11T20:10:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0003",
+        "source_phone": "9820456712",
+        "target_phone": "9820456712",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-11T22:50:00Z",
+        "duration_seconds": 110,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0009",
+        "source_phone": "VK-JIO-OTP",
+        "target_phone": "9820456712",
+        "type": "SMS_IN",
+        "timestamp": "2024-10-11T23:37:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0004",
+        "source_phone": "9820456712",
+        "target_phone": "+919821990412",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-12T01:56:00Z",
+        "duration_seconds": 90,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0010",
+        "source_phone": "+919811010234",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-12T09:34:00Z",
+        "duration_seconds": 120,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0017",
+        "source_phone": "+919811010881",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-12T12:59:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0015",
+        "source_phone": "9820456712",
+        "target_phone": "+919910010221",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-12T14:59:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0014",
+        "source_phone": "9820456712",
+        "target_phone": "+919810910711",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-12T18:22:00Z",
+        "duration_seconds": 140,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0011",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-12T18:49:00Z",
+        "duration_seconds": 310,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0016",
+        "source_phone": "9820456712",
+        "target_phone": "+919818010451",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-12T19:43:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0018",
+        "source_phone": "VK-JIO-OTP",
+        "target_phone": "9820456712",
+        "type": "SMS_IN",
+        "timestamp": "2024-10-12T20:16:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0012",
+        "source_phone": "9820456712",
+        "target_phone": "9820456712",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-12T23:14:00Z",
+        "duration_seconds": 65,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0013",
+        "source_phone": "9820456712",
+        "target_phone": "+919821990412",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-13T01:54:00Z",
+        "duration_seconds": 90,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0023",
+        "source_phone": "9820456712",
+        "target_phone": "+919810910711",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-13T10:44:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0026",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010881",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-13T10:47:00Z",
+        "duration_seconds": 25,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0019",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "MISSED",
+        "timestamp": "2024-10-13T11:06:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0024",
+        "source_phone": "9820456712",
+        "target_phone": "+919910010221",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-13T18:05:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0020",
+        "source_phone": "+919811010234",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-13T19:45:00Z",
+        "duration_seconds": 18,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0027",
+        "source_phone": "VK-JIO-OTP",
+        "target_phone": "9820456712",
+        "type": "SMS_IN",
+        "timestamp": "2024-10-13T22:46:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0021",
+        "source_phone": "9820456712",
+        "target_phone": "9820456712",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-13T22:52:00Z",
+        "duration_seconds": 185,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0025",
+        "source_phone": "9820456712",
+        "target_phone": "+919818010451",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-13T23:21:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0022",
+        "source_phone": "9820456712",
+        "target_phone": "+919821990412",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-14T02:21:00Z",
+        "duration_seconds": 90,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0028",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "MISSED",
+        "timestamp": "2024-10-14T10:11:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0034",
+        "source_phone": "9820456712",
+        "target_phone": "+919818010451",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-14T11:01:00Z",
+        "duration_seconds": 140,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0032",
+        "source_phone": "+919810910711",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-14T14:37:00Z",
+        "duration_seconds": 25,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0035",
+        "source_phone": "+919811010881",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-14T15:44:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0029",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "MISSED",
+        "timestamp": "2024-10-14T17:49:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0033",
+        "source_phone": "9820456712",
+        "target_phone": "+919910010221",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-14T18:50:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0036",
+        "source_phone": "VK-JIO-OTP",
+        "target_phone": "9820456712",
+        "type": "SMS_IN",
+        "timestamp": "2024-10-14T19:18:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0030",
+        "source_phone": "9820456712",
+        "target_phone": "9820456712",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-14T23:12:00Z",
+        "duration_seconds": 185,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0031",
+        "source_phone": "9820456712",
+        "target_phone": "+919821990412",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-15T01:45:00Z",
+        "duration_seconds": 55,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0043",
+        "source_phone": "+919810910711",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-15T10:19:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0040",
+        "source_phone": "+919811010234",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-15T11:52:00Z",
+        "duration_seconds": 120,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0038",
+        "source_phone": "+919811010234",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-15T12:54:00Z",
+        "duration_seconds": 45,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0037",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "MISSED",
+        "timestamp": "2024-10-15T13:27:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID102",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0044",
+        "source_phone": "+919910010221",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-15T13:57:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0039",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-15T15:11:00Z",
+        "duration_seconds": 45,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0045",
+        "source_phone": "9820456712",
+        "target_phone": "+919818010451",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-15T20:34:00Z",
+        "duration_seconds": 210,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0046",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010881",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-15T20:41:00Z",
+        "duration_seconds": 25,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0041",
+        "source_phone": "9820456712",
+        "target_phone": "9820456712",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-15T22:45:00Z",
+        "duration_seconds": 110,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0047",
+        "source_phone": "VK-JIO-OTP",
+        "target_phone": "9820456712",
+        "type": "SMS_IN",
+        "timestamp": "2024-10-16T00:58:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0042",
+        "source_phone": "9820456712",
+        "target_phone": "+919821990412",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-16T01:59:00Z",
+        "duration_seconds": 130,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0055",
+        "source_phone": "9820456712",
+        "target_phone": "+919910010221",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-16T10:48:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0057",
+        "source_phone": "+919811010881",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-16T10:52:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0048",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-16T12:34:00Z",
+        "duration_seconds": 310,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0051",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-16T17:41:00Z",
+        "duration_seconds": 18,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0050",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "MISSED",
+        "timestamp": "2024-10-16T17:50:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0049",
+        "source_phone": "9820456712",
+        "target_phone": "+919811010234",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-16T19:23:00Z",
+        "duration_seconds": 45,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0054",
+        "source_phone": "+919810910711",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-16T21:21:00Z",
+        "duration_seconds": 60,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0056",
+        "source_phone": "+919818010451",
+        "target_phone": "9820456712",
+        "type": "VOICE_IN",
+        "timestamp": "2024-10-16T22:22:00Z",
+        "duration_seconds": 140,
+        "cell_tower": "TOWER-LAC-010-CID104",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0052",
+        "source_phone": "9820456712",
+        "target_phone": "9820456712",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-16T23:01:00Z",
+        "duration_seconds": 110,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0058",
+        "source_phone": "VK-JIO-OTP",
+        "target_phone": "9820456712",
+        "type": "SMS_IN",
+        "timestamp": "2024-10-16T23:07:00Z",
+        "duration_seconds": 0,
+        "cell_tower": "TOWER-LAC-010-CID101",
+        "source_record_id": "CDR-DUMP-10"
+      },
+      {
+        "call_id": "CDR-010-0053",
+        "source_phone": "9820456712",
+        "target_phone": "+919821990412",
+        "type": "VOICE_OUT",
+        "timestamp": "2024-10-17T01:51:00Z",
+        "duration_seconds": 55,
+        "cell_tower": "TOWER-LAC-010-CID103",
+        "source_record_id": "CDR-DUMP-10"
+      }
+    ],
+    "transactions": [
+      {
+        "transaction_id": "TXN-010-0001",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-10",
+        "amount": 2500.0,
+        "currency": "INR",
+        "timestamp": "2024-10-06T01:55:00Z",
+        "transaction_type": "UPI",
+        "reference_no": "UTRUPI-20241000001",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0002",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-10",
+        "amount": 3420.0,
+        "currency": "INR",
+        "timestamp": "2024-10-06T04:20:00Z",
+        "transaction_type": "UPI",
+        "reference_no": "UTRUPI-20241000002",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0004",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-20",
+        "amount": 7800.0,
+        "currency": "INR",
+        "timestamp": "2024-10-06T23:45:00Z",
+        "transaction_type": "POS_DEBIT",
+        "reference_no": "UTRPOS-20241000004",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0003",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-20",
+        "amount": 3420.0,
+        "currency": "INR",
+        "timestamp": "2024-10-07T01:35:00Z",
+        "transaction_type": "UPI",
+        "reference_no": "UTRUPI-20241000003",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0006",
+        "source_account": "CDM-CASH-DEP-041",
+        "target_account": "410012345678",
+        "amount": 45000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-07T20:39:00Z",
+        "transaction_type": "CASH_DEPOSIT",
+        "reference_no": "UTRCAS-20241000006",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0005",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-30",
+        "amount": 7800.0,
+        "currency": "INR",
+        "timestamp": "2024-10-08T03:49:00Z",
+        "transaction_type": "POS_DEBIT",
+        "reference_no": "UTRPOS-20241000005",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0008",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-40",
+        "amount": 10000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-09T00:52:00Z",
+        "transaction_type": "ATM_WDL",
+        "reference_no": "UTRATM-20241000008",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0007",
+        "source_account": "CDM-CASH-DEP-041",
+        "target_account": "410012345678",
+        "amount": 45000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-09T01:37:00Z",
+        "transaction_type": "CASH_DEPOSIT",
+        "reference_no": "UTRCAS-20241000007",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0009",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-50",
+        "amount": 10000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-09T19:12:00Z",
+        "transaction_type": "ATM_WDL",
+        "reference_no": "UTRATM-20241000009",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0010",
+        "source_account": "410012345678",
+        "target_account": "ACC-MERCHANT-50",
+        "amount": 1250.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T03:10:00Z",
+        "transaction_type": "UPI",
+        "reference_no": "UTRUPI-20241000010",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0011",
+        "source_account": "ACC-VICTIM-010",
+        "target_account": "410012345678",
+        "amount": 950000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T21:30:00Z",
+        "transaction_type": "RTGS",
+        "reference_no": "UTRRBIRTGS202410991823",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0012",
+        "source_account": "410012345678",
+        "target_account": "410012345678",
+        "amount": 665000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T21:45:00Z",
+        "transaction_type": "IMPS",
+        "reference_no": "UTRIMPS202410882194",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0013",
+        "source_account": "410012345678",
+        "target_account": "ATM-CASH-OUT-01",
+        "amount": 10000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T22:30:00Z",
+        "transaction_type": "ATM_WDL",
+        "reference_no": "ATMWDL1000013",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0014",
+        "source_account": "410012345678",
+        "target_account": "ATM-CASH-OUT-02",
+        "amount": 10000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T22:42:00Z",
+        "transaction_type": "ATM_WDL",
+        "reference_no": "ATMWDL1000014",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0015",
+        "source_account": "410012345678",
+        "target_account": "ATM-CASH-OUT-03",
+        "amount": 10000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T22:54:00Z",
+        "transaction_type": "ATM_WDL",
+        "reference_no": "ATMWDL1000015",
+        "source_record_id": "BANK-STMT-10"
+      },
+      {
+        "transaction_id": "TXN-010-0016",
+        "source_account": "410012345678",
+        "target_account": "ATM-CASH-OUT-04",
+        "amount": 10000.0,
+        "currency": "INR",
+        "timestamp": "2024-10-10T23:06:00Z",
+        "transaction_type": "ATM_WDL",
+        "reference_no": "ATMWDL1000016",
+        "source_record_id": "BANK-STMT-10"
+      }
+    ]
+  },
+  "surveillance_logs": [
+    {
+      "log_id": "SURV-010-01",
+      "location_id": "LOC-CRIME-10",
+      "location_name": "Area Sector 10",
+      "latitude": 28.7639,
+      "longitude": 77.359,
+      "timestamp": "2024-10-20T18:45:00Z",
+      "observed_person_ids": [
+        "P-010-SUS01"
+      ],
+      "observed_vehicle_vins": [
+        "VIN-IND-010-99021"
+      ],
+      "observed_phone_numbers": [
+        "+919811010234"
+      ],
+      "activity_description": "Target observed meeting unknown contacts; encrypted communication device noted active on tower TOWER-LAC-010-CID104.",
+      "evidence_ref": "LOG-REPORT-CAM-010.pdf",
+      "source_record_id": "FIELD-NOTE-10"
+    }
+  ],
+  "criminal_history": [
+    {
+      "record_id": "CRIM-HIST-010",
+      "person_id": "P-010-REF01",
+      "case_number": "CR-2021-510",
+      "offense": "Prior involvement in NARCOTICS conspiracy",
+      "jurisdiction": "Anti-Narcotics Cell Panaji Goa",
+      "status": "CHARGED",
+      "year": 2021,
+      "source_record_id": "ARCHIVE-RECORD-10"
+    }
+  ],
+  "intelligence_reports": [
+    {
+      "report_id": "INTEL-010-01",
+      "source_agency": "State Intelligence & Counter-Crime Wing",
+      "date": "2024-10-20",
+      "reliability_score": 0.92,
+      "content": "Secret informant reports Karan Singh has been associated with several communication records. Observed communication and financial records were identified for further review.",
+      "entities_mentioned": [
+        "P-010-SUS01"
+      ],
+      "source_record_id": "RAW-MEMO-10"
+    }
+  ]
+}

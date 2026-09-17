@@ -1,0 +1,23 @@
+================================================================================
+FIRST INFORMATION REPORT
+================================================================================
+District / Division: CID Cyber Crime Police Station Bengaluru
+Police Station: CID Cyber Crime Police Station Bengaluru
+FIR Number: 1005/2024    Date: 2024-10-15
+Acts & Sections: IT Act 66E, IT Act 67, IPC 384, IPC 506, IPC 120B
+Type of Information: Written Complaint / Investigation Referral
+
+Complainant / Informant: Neha Kapoor
+
+Persons identified during initial inquiry:
+- Name: Rohit Malhotra
+- Local record ID: P-005-REF01
+- Contact observed/recorded: 9805017002
+
+Brief Facts:
+Unlicensed micro-lending apps harvesting victim contact lists and galleries, deploying automated deepfake nude morphs to contacts for exorbitant daily extortion repayments.
+The initial record contains communications, financial records, field observations and other source material for further examination. The presence of an association or transaction is not, by itself, treated as proof of criminal involvement.
+
+Investigating Officer:
+Inspector R. K. Shekhawat, CID Cyber Crime Police Station Bengaluru
+================================================================================

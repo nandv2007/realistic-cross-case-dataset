@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-014-01
+Observation Subject: Mohit Gurjar (local record P-014-REF01)
+Date/Time: 2024-10-24T18:45:00Z
+Observation Area: Primary Incident Location - Case 14
+GPS: 28.8239, 77.419
+
+Observed vehicle:
+- Registration: DL06CO0014
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-014-99021
+
+Telephony observation:
+- Handset: 9814027005
+- IMEI: IMEI-864201040014000
+- Serving tower: TOWER-014-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-014-01
+Status: Forwarded for investigative review
+================================================================================

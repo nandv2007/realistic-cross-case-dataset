@@ -1,0 +1,21 @@
+{
+  "case_id": "CASE-2024-ND04",
+  "target_subject": "Prakash Naik",
+  "target_person_id": "P-009-REF01",
+  "platforms_monitored": [
+    {
+      "handle_id": "OSINT-009-01",
+      "platform": "Telegram",
+      "handle": "contact",
+      "associated_email": "operative_9@proton.me",
+      "display_name": "Private channel",
+      "owner_person_id": "P-009-REF01"
+    }
+  ],
+  "cyber_indicators": {
+    "ip_addresses": [],
+    "active_vpns": [],
+    "crypto_wallets_observed": []
+  },
+  "investigative_remarks": "Publicly accessible account activity was recorded for correlation. The source does not establish ownership or criminal intent without corroborating evidence."
+}

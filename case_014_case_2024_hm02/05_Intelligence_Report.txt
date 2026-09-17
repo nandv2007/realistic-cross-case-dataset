@@ -1,0 +1,28 @@
+================================================================================
+CONFIDENTIAL INTELLIGENCE REPORT
+================================================================================
+Memo Control: INTEL-014-01
+Originating Unit: State Intelligence / Crime Analysis Cell
+Date: 2024-10-24
+Classification: CONFIDENTIAL
+Subject: Investigative observations relating to Case CASE-2024-HM02
+
+1. INFORMATION RECEIVED
+Information from field sources and technical records indicates that the subject Mohit Gurjar has been associated with communications and/or financial activity relevant to the present inquiry.
+
+2. IDENTITY CHECK
+The subject name should not be used as the sole basis for identity resolution. Investigators should compare available identifiers such as registered telephone numbers, account details, dates of birth, device identifiers and other source attributes.
+
+3. TECHNICAL OBSERVATIONS
+The following identifiers were observed in records associated with this case:
+- Telephone: 9814027005
+- Device IMEI: IMEI-864201040014000
+- Financial account reference: 110000001401
+- Vehicle registration: DL06CO0014
+These identifiers are reported as observations only; their significance is to be established through corroboration.
+
+4. ASSESSMENT
+No single record should be treated as conclusive evidence of criminal involvement. Further correlation with independent source material is recommended.
+
+Approved for investigative use.
+================================================================================
