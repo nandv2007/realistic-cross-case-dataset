@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-024-01
+Observation Subject: Sameer Ansari (local record P-024-REF01)
+Date/Time: 2024-10-19T18:45:00Z
+Observation Area: Primary Incident Location - Case 24
+GPS: 28.9739, 77.569
+
+Observed vehicle:
+- Registration: DL07CE0024
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-024-99021
+
+Telephony observation:
+- Handset: 9824017004
+- IMEI: IMEI-864201040024000
+- Serving tower: TOWER-024-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-024-01
+Status: Forwarded for investigative review
+================================================================================

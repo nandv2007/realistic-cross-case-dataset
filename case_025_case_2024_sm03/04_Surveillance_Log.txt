@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-025-01
+Observation Subject: Harish Menon (local record P-025-REF01)
+Date/Time: 2024-10-20T18:45:00Z
+Observation Area: Primary Incident Location - Case 25
+GPS: 28.9889, 77.584
+
+Observed vehicle:
+- Registration: DL08CF0025
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-025-99021
+
+Telephony observation:
+- Handset: 9825027006
+- IMEI: IMEI-864201040025000
+- Serving tower: TOWER-025-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-025-01
+Status: Forwarded for investigative review
+================================================================================

@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-022-01
+Observation Subject: Rakesh Kumar (local record P-022-REF01)
+Date/Time: 2024-10-17T18:45:00Z
+Observation Area: Primary Incident Location - Case 22
+GPS: 28.9439, 77.539
+
+Observed vehicle:
+- Registration: DL05CC0022
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-022-99021
+
+Telephony observation:
+- Handset: 9822027005
+- IMEI: IMEI-864201040022000
+- Serving tower: TOWER-022-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-022-01
+Status: Forwarded for investigative review
+================================================================================

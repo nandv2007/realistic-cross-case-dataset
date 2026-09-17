@@ -1,0 +1,25 @@
+================================================================================
+CONFIDENTIAL FIELD OBSERVATION REPORT
+================================================================================
+Log Reference: SURV-021-01
+Observation Subject: Dinesh Agarwal (local record P-021-REF01)
+Date/Time: 2024-10-16T18:45:00Z
+Observation Area: Primary Incident Location - Case 21
+GPS: 28.9289, 77.524
+
+Observed vehicle:
+- Registration: DL04CB0021
+- Make / Model: Hyundai Creta
+- VIN reference: VIN-IND-021-99021
+
+Telephony observation:
+- Handset: 9821027005
+- IMEI: IMEI-864201040021000
+- Serving tower: TOWER-021-01
+
+Field notes:
+Subject was observed in the recorded area and was seen interacting with unidentified persons. The observation is retained as a source record for correlation with other investigative material.
+
+Evidence reference: FIELD-OBS-021-01
+Status: Forwarded for investigative review
+================================================================================
